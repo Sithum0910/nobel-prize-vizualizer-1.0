@@ -1,0 +1,6 @@
+pandas
+seaborn
+matplotlib
+numpy
+plotly
+නැත්නම් හුකා ගන්න වෙන්නෙ  
